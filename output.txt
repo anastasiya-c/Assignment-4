@@ -1,0 +1,188 @@
+Movies over all years: 
+4358 Drama movies came out over all years
+3755 Comedy movies came out over all years
+1892 Thriller movies came out over all years
+1827 Action movies came out over all years
+1596 Romance movies came out over all years
+1263 Adventure movies came out over all years
+1199 Crime movies came out over all years
+978 Horror movies came out over all years
+978 Sci-Fi movies came out over all years
+779 Fantasy movies came out over all years
+664 Children movies came out over all years
+611 Animation movies came out over all years
+573 Mystery movies came out over all years
+440 Documentary movies came out over all years
+382 War movies came out over all years
+334 Musical movies came out over all years
+167 Western movies came out over all years
+158 IMAX movies came out over all years
+87 Film-Noir movies came out over all years
+
+Movies for the recent 5 years: 
+252 Comedy movies came out from 2015 to 2020 (greater than average)
+224 Drama movies came out from 2015 to 2020 (greater than average)
+165 Action movies came out from 2015 to 2020 (greater than average)
+133 Thriller movies came out from 2015 to 2020 (greater than average)
+117 Adventure movies came out from 2015 to 2020 (greater than average)
+101 Sci-Fi movies came out from 2015 to 2020 (greater than average)
+69 Horror movies came out from 2015 to 2020 (greater than average)
+64 Crime movies came out from 2015 to 2020 (greater than average)
+64 Fantasy movies came out from 2015 to 2020 (greater than average)
+62 Animation movies came out from 2015 to 2020 (greater than average)
+44 Documentary movies came out from 2015 to 2020 (greater than average)
+39 Children movies came out from 2015 to 2020 (greater than average)
+35 Mystery movies came out from 2015 to 2020 (greater than average)
+7 Western movies came out from 2015 to 2020 (greater than average)
+0 Film-Noir movies came out from 2015 to 2020 (average number)
+46 Romance movies came out from 2015 to 2020 (less than average)
+8 War movies came out from 2015 to 2020 (less than average)
+1 IMAX movies came out from 2015 to 2020 (less than average)
+1 Musical movies came out from 2015 to 2020 (less than average)
+
+Movies for the decade 2010 to 2020: 
+758 Comedy movies came out from 2010 to 2020 (greater than average)
+743 Drama movies came out from 2010 to 2020 (greater than average)
+464 Action movies came out from 2010 to 2020 (greater than average)
+417 Thriller movies came out from 2010 to 2020 (greater than average)
+292 Adventure movies came out from 2010 to 2020 (greater than average)
+244 Sci-Fi movies came out from 2010 to 2020 (greater than average)
+218 Crime movies came out from 2010 to 2020 (greater than average)
+217 Romance movies came out from 2010 to 2020 (greater than average)
+190 Horror movies came out from 2010 to 2020 (greater than average)
+178 Fantasy movies came out from 2010 to 2020 (greater than average)
+172 Animation movies came out from 2010 to 2020 (greater than average)
+119 Documentary movies came out from 2010 to 2020 (greater than average)
+108 Children movies came out from 2010 to 2020 (greater than average)
+106 Mystery movies came out from 2010 to 2020 (greater than average)
+104 IMAX movies came out from 2010 to 2020 (greater than average)
+40 War movies came out from 2010 to 2020 (greater than average)
+19 Western movies came out from 2010 to 2020 (greater than average)
+4 Film-Noir movies came out from 2010 to 2020 (greater than average)
+23 Musical movies came out from 2010 to 2020 (less than average)
+
+Movies for the decade 2000 to 2010: 
+1466 Drama movies came out from 2000 to 2010 (greater than average)
+1232 Comedy movies came out from 2000 to 2010 (greater than average)
+710 Thriller movies came out from 2000 to 2010 (greater than average)
+614 Action movies came out from 2000 to 2010 (greater than average)
+564 Romance movies came out from 2000 to 2010 (greater than average)
+427 Crime movies came out from 2000 to 2010 (greater than average)
+393 Adventure movies came out from 2000 to 2010 (greater than average)
+322 Horror movies came out from 2000 to 2010 (greater than average)
+285 Sci-Fi movies came out from 2000 to 2010 (greater than average)
+281 Fantasy movies came out from 2000 to 2010 (greater than average)
+222 Animation movies came out from 2000 to 2010 (greater than average)
+215 Documentary movies came out from 2000 to 2010 (greater than average)
+207 Children movies came out from 2000 to 2010 (greater than average)
+199 Mystery movies came out from 2000 to 2010 (greater than average)
+117 War movies came out from 2000 to 2010 (greater than average)
+82 Musical movies came out from 2000 to 2010 (greater than average)
+59 IMAX movies came out from 2000 to 2010 (greater than average)
+31 Western movies came out from 2000 to 2010 (greater than average)
+7 Film-Noir movies came out from 2000 to 2010 (greater than average)
+
+Movies for the decade 1990 to 2000: 
+1176 Drama movies came out from 1990 to 2000 (greater than average)
+1006 Comedy movies came out from 1990 to 2000 (greater than average)
+479 Romance movies came out from 1990 to 2000 (greater than average)
+479 Thriller movies came out from 1990 to 2000 (greater than average)
+431 Action movies came out from 1990 to 2000 (greater than average)
+303 Crime movies came out from 1990 to 2000 (greater than average)
+262 Adventure movies came out from 1990 to 2000 (greater than average)
+200 Children movies came out from 1990 to 2000 (greater than average)
+192 Sci-Fi movies came out from 1990 to 2000 (greater than average)
+183 Horror movies came out from 1990 to 2000 (greater than average)
+167 Fantasy movies came out from 1990 to 2000 (greater than average)
+123 Mystery movies came out from 1990 to 2000 (greater than average)
+118 Animation movies came out from 1990 to 2000 (greater than average)
+87 Documentary movies came out from 1990 to 2000 (greater than average)
+67 War movies came out from 1990 to 2000 (greater than average)
+57 Musical movies came out from 1990 to 2000 (greater than average)
+33 Western movies came out from 1990 to 2000 (greater than average)
+13 Film-Noir movies came out from 1990 to 2000 (greater than average)
+11 IMAX movies came out from 1990 to 2000 (greater than average)
+
+Movies for the decade 1980 to 1990: 
+551 Comedy movies came out from 1980 to 1990 (greater than average)
+501 Drama movies came out from 1980 to 1990 (greater than average)
+262 Action movies came out from 1980 to 1990 (greater than average)
+212 Thriller movies came out from 1980 to 1990 (greater than average)
+199 Horror movies came out from 1980 to 1990 (greater than average)
+190 Adventure movies came out from 1980 to 1990 (greater than average)
+180 Romance movies came out from 1980 to 1990 (greater than average)
+173 Sci-Fi movies came out from 1980 to 1990 (greater than average)
+148 Crime movies came out from 1980 to 1990 (greater than average)
+121 Fantasy movies came out from 1980 to 1990 (greater than average)
+77 Children movies came out from 1980 to 1990 (greater than average)
+69 Animation movies came out from 1980 to 1990 (greater than average)
+68 Mystery movies came out from 1980 to 1990 (greater than average)
+55 War movies came out from 1980 to 1990 (greater than average)
+44 Musical movies came out from 1980 to 1990 (greater than average)
+16 Western movies came out from 1980 to 1990 (greater than average)
+8 Film-Noir movies came out from 1980 to 1990 (greater than average)
+28 Documentary movies came out from 1980 to 1990 (less than average)
+0 IMAX movies came out from 1980 to 1990 (less than average)
+
+Movies for the decade 1970 to 1980: 
+31 War movies came out from 1970 to 1980 (greater than average)
+20 Western movies came out from 1970 to 1980 (greater than average)
+2 Film-Noir movies came out from 1970 to 1980 (greater than average)
+257 Drama movies came out from 1970 to 1980 (less than average)
+184 Comedy movies came out from 1970 to 1980 (less than average)
+121 Action movies came out from 1970 to 1980 (less than average)
+105 Thriller movies came out from 1970 to 1980 (less than average)
+83 Adventure movies came out from 1970 to 1980 (less than average)
+81 Horror movies came out from 1970 to 1980 (less than average)
+75 Crime movies came out from 1970 to 1980 (less than average)
+73 Sci-Fi movies came out from 1970 to 1980 (less than average)
+54 Romance movies came out from 1970 to 1980 (less than average)
+44 Mystery movies came out from 1970 to 1980 (less than average)
+40 Children movies came out from 1970 to 1980 (less than average)
+33 Fantasy movies came out from 1970 to 1980 (less than average)
+27 Animation movies came out from 1970 to 1980 (less than average)
+27 Musical movies came out from 1970 to 1980 (less than average)
+12 Documentary movies came out from 1970 to 1980 (less than average)
+0 IMAX movies came out from 1970 to 1980 (less than average)
+
+Movies for the decade 1960 to 1970: 
+47 War movies came out from 1960 to 1970 (greater than average)
+40 Musical movies came out from 1960 to 1970 (greater than average)
+31 Western movies came out from 1960 to 1970 (greater than average)
+2 Film-Noir movies came out from 1960 to 1970 (greater than average)
+210 Drama movies came out from 1960 to 1970 (less than average)
+142 Comedy movies came out from 1960 to 1970 (less than average)
+68 Adventure movies came out from 1960 to 1970 (less than average)
+64 Romance movies came out from 1960 to 1970 (less than average)
+61 Action movies came out from 1960 to 1970 (less than average)
+54 Thriller movies came out from 1960 to 1970 (less than average)
+47 Crime movies came out from 1960 to 1970 (less than average)
+44 Children movies came out from 1960 to 1970 (less than average)
+42 Horror movies came out from 1960 to 1970 (less than average)
+36 Sci-Fi movies came out from 1960 to 1970 (less than average)
+28 Fantasy movies came out from 1960 to 1970 (less than average)
+27 Animation movies came out from 1960 to 1970 (less than average)
+22 Mystery movies came out from 1960 to 1970 (less than average)
+8 Documentary movies came out from 1960 to 1970 (less than average)
+0 IMAX movies came out from 1960 to 1970 (less than average)
+
+Movies for the decade 1950 to 1960: 
+34 Musical movies came out from 1950 to 1960 (greater than average)
+32 War movies came out from 1950 to 1960 (greater than average)
+22 Western movies came out from 1950 to 1960 (greater than average)
+18 Film-Noir movies came out from 1950 to 1960 (greater than average)
+165 Drama movies came out from 1950 to 1960 (less than average)
+74 Comedy movies came out from 1950 to 1960 (less than average)
+70 Romance movies came out from 1950 to 1960 (less than average)
+39 Sci-Fi movies came out from 1950 to 1960 (less than average)
+36 Crime movies came out from 1950 to 1960 (less than average)
+35 Thriller movies came out from 1950 to 1960 (less than average)
+33 Adventure movies came out from 1950 to 1960 (less than average)
+33 Horror movies came out from 1950 to 1960 (less than average)
+19 Action movies came out from 1950 to 1960 (less than average)
+19 Mystery movies came out from 1950 to 1960 (less than average)
+17 Children movies came out from 1950 to 1960 (less than average)
+12 Fantasy movies came out from 1950 to 1960 (less than average)
+7 Animation movies came out from 1950 to 1960 (less than average)
+1 Documentary movies came out from 1950 to 1960 (less than average)
+0 IMAX movies came out from 1950 to 1960 (less than average)
